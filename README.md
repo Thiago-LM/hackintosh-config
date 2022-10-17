@@ -1,7 +1,7 @@
 # hackintosh-config
 Configuration files needed by me to run MacOS on my PC.
 
-## PC Specs
+## [OLD] Desktop Specs
 Motherboard: ASRock A320M-HD AM4 mATX DDR4  
 CPU: AMD Ryzen 5 1600 AM4  
 GPU: XFX RX 570 4 GB  
@@ -13,10 +13,24 @@ HDD: SAMSUNG HD322HJ 320GB (MacOS)
 HDD: WDC WD10EZEX-00BN5A0 1TB (Backup/Documents)  
 HDD: Hitachi HTS545050A7E380 500GB (Media/Plex)  
 
-![About This Mac](Screenshots/ScreenShot_1.png)
+OpenCore version: 0.6.7
+MacOS version: macOS Big Sur 11.2.3
+
+![About This Mac](Screenshots/Screenshot_1.png)
+
+## [NEW] Notebook Specs
+Modelo: Notebook 2AM E550
+CPU: Intel Core i5 9400
+GPU: GTX 1050 3GB
+RAM1: Kllisre 16GB 2666MHz 1.2V DDR4 CL19
+RAM2: 4GB
+SSD: Xraydisk 1TB (Windows 11)
+SSD: WD Blue 500GB M.2 NVME - WDS500G3B0C (MacOS)
+
+OpenCore version: 0.8.4
+MacOS version: macOS Monterey 12.6
+
+![About This Mac](Screenshots/Screenshot_2.png)
 
 ## Tutorial/Configuration
 I followed [Dortania's Guide](https://dortania.github.io/getting-started/) to be able to run MacOS on my PC.
-
-OpenCore version: 0.6.7  
-MacOS version: macOS Big Sur 11.2.3  
