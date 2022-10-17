@@ -18,7 +18,7 @@ HDD: Hitachi HTS545050A7E380 500GB (Media/Plex)
 OpenCore version: 0.6.7  
 MacOS version: macOS Big Sur 11.2.3
 
-![About This Mac](Screenshots/Screenshot_1.png)
+![About This Mac](Screenshots/Screenshot_old.png)
 
 ## [NEW] Notebook Specs
 
@@ -34,7 +34,7 @@ SSD: WD Blue 500GB M.2 NVME - WDS500G3B0C (MacOS)
 OpenCore version: 0.8.4  
 MacOS version: macOS Monterey 12.6
 
-![About This Mac](Screenshots/Screenshot_2.png)
+![About This Mac](Screenshots/Screenshot_new.png)
 
 ## Tutorial/Configuration
 
